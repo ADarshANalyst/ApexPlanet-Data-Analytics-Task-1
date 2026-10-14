@@ -2,7 +2,7 @@
 
 **Task 1 | Data Analytics Project | Python, Pandas & NumPy**
 
-## 📌 Project Overview
+## 📌 Project Overviews
 
 Data wrangling is the process of collecting, cleaning, transforming, and validating raw data to make it suitable for analysis.
 
